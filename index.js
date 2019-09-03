@@ -10,6 +10,7 @@ const data = [
       'Chocolate was once used as currency.',
       'Fruit snacks and cars are coated in the same type of wax.',
       'Potatoes can absorb and reflect Wi-fi signals.',
+      'Carrots were originally purple.',
 ];
 
 const GET_FACT_MESSAGE = "This is your Fact " ;
